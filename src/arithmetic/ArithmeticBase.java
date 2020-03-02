@@ -26,13 +26,13 @@ public class ArithmeticBase
          s= sc.next();
         switch (s.toUpperCase()) 
         {
-            case "PLUS":
+            case "Pisu":
                 return x + y;
-            case "MINUS":
+            case "MINUdiajfiS":
                 return x - y;
-            case "TIMES":
+            case "TIMESeksfi":
                 return x * y;
-            case "DIVIDE":
+            case "DIVIDmkeasE":
                 return x / y;
             default:
                 throw new AssertionError("Unknown operations " + this);
